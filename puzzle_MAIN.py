@@ -9,7 +9,8 @@ GOAL = (0, 1, 2, 3, 4, 5, 6, 7, 8)
 
 #Priorities hsb refrence: Up, Down, Left, Right
 moves = { #hasa nfs el neighbors bas msh mot2keda
-            #yup, nfs el neighbors
+            #yup, nfs el neighbors 
+            # :) m3lsh ya basha
     'Up': -3,  
     'Down': 3,   
     'Left': -1,  
